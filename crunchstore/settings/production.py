@@ -1,0 +1,1 @@
+from crunchstore.settings.base import *
